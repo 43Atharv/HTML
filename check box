@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <caption>student data</data></caption>
+    <table>
+        <tr>
+        <th>name</th>
+        <th>roll no</th>
+        </tr>
+        <tr>
+            <td>Atharv</td>
+            <th>137</th>
+        </tr>
+    </table>
+    <br>
+
+    <label for="maths">
+        <input type="check box"value="class X"name="class"id="maths">
+
+    </label>
+    <label for="physics">
+        <input type="checkbox"value="class X"name="class"id="english">
+    </label>
+    <br>
+    <br>
+    
+    <br>
+     <select name="city id"="city">
+        <option value="delhi">delhi</option>
+        <option value="pune">pune</option>
+        <option value="mumbai">mumbai</option>
+        <option value="sangli">sangli</option>
+     </select>
+     <br>
+     <br>
+     <textarea name="feedback"id="101"placeholder="please give feedback"rows=5>feedback</textarea>
+    <br>
+     <br>
+     <input type="submit"value="submit">
+    </form>
+</body>
+</html>
